@@ -1,0 +1,52 @@
+{
+    "Sem1": [
+        {
+            "course": "INFT 355",
+            "credits": 3,
+            "grade_point": 4.0,
+            "grade": "A"
+        },
+        {
+            "course": "COMP 357",
+            "credits": 3,
+            "grade_point": 4.0,
+            "grade": "A"
+        },
+        {
+            "course": "COMP 355",
+            "credits": 3,
+            "grade_point": 4.0,
+            "grade": "A"
+        },
+        {
+            "course": "INFT 353",
+            "credits": 2,
+            "grade_point": 3.5,
+            "grade": "B+"
+        },
+        {
+            "course": "INFT 357",
+            "credits": 2,
+            "grade_point": 4.0,
+            "grade": "A"
+        },
+        {
+            "course": "COMP 363",
+            "credits": 3,
+            "grade_point": 4.0,
+            "grade": "A"
+        },
+        {
+            "course": "COMP 361",
+            "credits": 3,
+            "grade_point": 4.0,
+            "grade": "A"
+        },
+        {
+            "course": "INFT 351",
+            "credits": 2,
+            "grade_point": 2.5,
+            "grade": "C+"
+        }
+    ]
+}
